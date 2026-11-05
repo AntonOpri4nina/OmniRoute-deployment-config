@@ -1,0 +1,13 @@
+.env
+env.txt
+inspect.json
+run-command.sh
+server.env
+omniroute-data/
+data/
+backup/
+*.tar.gz
+*.sqlite
+*.sqlite-*
+*.sqlite.bak*
+*.db
